@@ -1,8 +1,18 @@
-<img align="left" width="120" src="https://raw.githubusercontent.com/doublesecretagency/craft-spoon/45a4a86792ba76b2f35144d13cd61cd06d520247/src/icon.svg" alt="Plugin icon">
+<img align="left" width="66" src="https://raw.githubusercontent.com/doublesecretagency/craft-spoon/45a4a86792ba76b2f35144d13cd61cd06d520247/src/icon.svg" alt="Plugin icon">
 
-# Spoon plugin for Craft CMS
+# Spoon plugin for Craft CMS 4
 
 **Bend your Matrix fields with block groups & tabs.**
+
+---
+
+## ⭐️ SPOON HAS BEEN RETIRED ⭐️
+
+Spoon will not be ported to Craft 5, because it is no longer necessary! The new overhauled Matrix field UX covers much of what Spoon provided prior to Craft 5. 👏
+
+See our [blog post](https://www.doublesecretagency.com/blog/craft-5-plugin-retirements) for more information.
+
+### Still available & supported for Craft 3 & 4 ✅
 
 ---
 
